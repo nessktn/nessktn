@@ -9,7 +9,7 @@
 
 - I’m currently studying Computer Science at the Papua New Guinea University of Technology  
 - My interests lie in AI/ML, Data Science, Game Modding and Web Apps
-- Fun fact: I often feel out of place, but I believe small consistent steps lead to big growth  
+- Fun fact: I have a lot of interests, and consider myself quite a tinkerer.  
 
 ---
 
