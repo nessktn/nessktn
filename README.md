@@ -20,7 +20,7 @@
 | Languages | Python, Java, TypeScript|
 | Frontend | HTML, CSS, React |
 | Backend | Node.js, Express, MongoDB |
-| Tools & Others | Git, VSCode, Postman|
+| Tools & Others | Git, VSCode|
 
 ---
 
