@@ -17,10 +17,11 @@
 
 | Domain | Tools / Languages |
 |--------|-------------------|
-| Languages | Python, Java, TypeScript|
+| Languages | Python, Java, Javascript |
 | Frontend | HTML, CSS, React |
-| Backend | Node.js, Express, MongoDB |
-| Tools & Others | Git, VSCode|
+| Backend | Node.js, Express |
+| Database | PostgreSQL, MongoDB |
+| Tools & Others | Git, VSCode |
 
 ---
 
@@ -34,11 +35,6 @@
 ## Check these out
 
 - **[Chess-game](https://github.com/nessktn/Chess-game)** — A simple GUI chess engine in Python (uses Stockfish as the AI opponent)  
-
-## Contact Me
-
-- Portfolio / Personal site: https://nessktn-portfolio.vercel.app  
-- LinkedIn: https://www.linkedin.com/in/johannes-kutan  
 
 ---
 
