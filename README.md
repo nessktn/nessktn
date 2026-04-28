@@ -7,10 +7,10 @@
 
 ## About Me 
 
-- I’m currently studying Computer Science at the Papua New Guinea University of Technology  
-- My interests lie in AI/ML, Data Science, Game Modding and Web Apps
-- Fun fact: I have a lot of interests, and consider myself quite a tinkerer.  
-
+- I’m currently a Senior Computer Science at the Papua New Guinea University of Technology  
+- My current interests lie in AI/ML, Software Development & Linux
+- I enjoy learning about new technologies and tinkering with them.
+  
 ---
 
 ## Skills & Tools
@@ -21,7 +21,7 @@
 | Frontend | HTML, CSS, React |
 | Backend | Node.js, Express |
 | Database | PostgreSQL, MongoDB |
-| Tools & Others | Git, VSCode |
+| Tools & Others | Git, VSCode, Linux CLI |
 
 ---
 
@@ -38,5 +38,4 @@
 
 ---
 
-> “Small steps, day by day — build your path.”  
-
+> “You can't expect to stay consistent at something if you have shallow reasons for why you are doing it.” - Unknown
