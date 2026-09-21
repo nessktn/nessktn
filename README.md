@@ -34,7 +34,8 @@
 
 ## Check these out
 
-- **[Chess-game](https://github.com/nessktn/Chess-game)** — A simple GUI chess engine in Python (uses Stockfish as the AI opponent)  
+- **[Chess-game](https://github.com/nessktn/Chess-game)** — A simple GUI chess engine in Python (uses Stockfish as the AI opponent)
+- **[Misinformation Detector](https://github.com/nessktn/minsinformation-detection)**  — PNG Misinformation Detector on Social Media (Work-in-progress)
 
 ---
 
