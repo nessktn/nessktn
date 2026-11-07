@@ -7,9 +7,9 @@
 
 ## About Me 
 
-- I’m currently a senior Computer Science student at the Papua New Guinea University of Technology  
-- My current interests lie in AI/ML, Software Development & the GNU/Linux operating system
-- I enjoy learning about new technologies and tinkering with them.
+- I’m an upcoming Computer Science graduate from the Papua New Guinea University of Technology  
+- My current interests lie in AI/ML, Fintech & the GNU/Linux Operating System
+- I enjoy learning about and tinkering with new technologies and open-source projects.
   
 ---
 
